@@ -4,13 +4,18 @@ export default {
   theme: {
     extend: {
       colors: {
-        'desert-red': '#C8102E',
-        'desert-blue': '#003087',
-        'desert-green': '#2C5F2E',
-        'desert-maroon': '#6B2737',
-        'desert-sand': '#D4A96A',
-        'desert-dark': '#1A1A1A',
-        'desert-gold': '#FFB81C',
+        'desert-bg':      '#F5EDE0',
+        'desert-surface': '#EAD9C0',
+        'desert-brown':   '#2C1A0E',
+        'desert-red':     '#C45C2A',
+        'desert-terra':   '#C45C2A',
+        'desert-blue':    '#1A4A7A',
+        'desert-sage':    '#4A6B4C',
+        'desert-green':   '#4A6B4C',
+        'desert-maroon':  '#8B3A2A',
+        'desert-sand':    '#E8C48A',
+        'desert-dark':    '#F5EDE0',
+        'desert-gold':    '#B8700F',
       },
       fontFamily: {
         heading: ['Georgia', 'serif'],
